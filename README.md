@@ -10,3 +10,6 @@ I'm currently attending California State Univesity, Fullerton and expected to gr
 ## Skills and Experience
 - C++
 - Python
+
+## About me 🧍‍♂️
+Been a gamer since 2010 and have been hooked in ever since! I enjoy playing on the computer and because of that grew a passion that was strong enough to take Computer Science as my major. 😭 However, it was the best decision I made and have grown a new passion in software development as I learn more about the technology behind computers.
