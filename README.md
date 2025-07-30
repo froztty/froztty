@@ -1,8 +1,8 @@
 # Nathan Nguyen
 
-**`Digital Delinquent (Developer/Esports Coach/Editor)`**
+**`Digital Delinquent (Developer/Editor)`**
 
-I'm currently attending California State Univesity, Fullerton and expected to graduate in the Spring of 2024. Currently working on improving my game development knowledge which you can check out from my repositories and I will share my public projects here.
+I am currently working in Maryland as a Software Engineer. Graduated California State University, Fullerton in May 2024 with a B.S. in Computer Science. Currently working on improving my game development knowledge which you can check out from my repos. I've fallen in love with Python and it is my go to language for anything and everything! The best language to make anything you want! I've built a flying car with just Python! 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-nguyen-frosty) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7nGzScCMN5) 
